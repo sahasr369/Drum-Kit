@@ -1,2 +1,2 @@
 # Drum-Kit
-A drum kit web app built using HTNL,CSS and Vanilla Javascript.
+A drum kit web app built using HTML,CSS and Vanilla Javascript.
